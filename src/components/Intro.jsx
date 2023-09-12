@@ -28,6 +28,7 @@ const Intro = () => {
                             alt="about image"
                             width={300}
                             height={300}
+                            style={{ width: "100%", height: "auto"}}
                         />
                     </div>
                     
